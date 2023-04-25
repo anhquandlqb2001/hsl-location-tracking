@@ -1,0 +1,5 @@
+psycopg2-binary
+click
+gears-cli
+redis
+numpy
